@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd42b96d9c529fb4f8374ebcd2b4b859, type: 3}
+  m_Name: Quest 1
+  m_EditorClassIdentifier: 
+  _questName: Find A Way Out
+  _questDescription: You have been found locked in this prison cell. Find a way out
+    !!
+  _questLocation: Prison Cell
+  _questState: 3
+  _goals:
+  - {fileID: 11400000, guid: e46740e54dcdeb149a5c032259ed67b5, type: 2}
+  - {fileID: 11400000, guid: b04399e1bb0788e4fa4d3860657394a4, type: 2}
+  - {fileID: 11400000, guid: cc4c7b97a53349b4da8c507c8b690a3d, type: 2}
+  - {fileID: 11400000, guid: 3311b1b302d588141983274e2cb9ea81, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd42b96d9c529fb4f8374ebcd2b4b859, type: 3}
+  m_Name: Quest 4 - Kill her
+  m_EditorClassIdentifier: 
+  _questName: Kill Prosha
+  _questDescription: 'With this Magical Weapon, we can kill Prosha. And get revenge
+    for thoes poor innocent souls.
+
+'
+  _questLocation: Prison Cell
+  _questState: 0
+  _goals:
+  - {fileID: 11400000, guid: e4d0fa9e0febf8c4cb05b8973e11b6d6, type: 2}
+  - {fileID: 11400000, guid: 22b279f285296154880f75773a574cb5, type: 2}
+  - {fileID: 11400000, guid: 10c62471a23a97b4985d9759110a673f, type: 2}
