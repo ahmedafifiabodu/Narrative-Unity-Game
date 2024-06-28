@@ -2,6 +2,10 @@
 
 Narrative Unity Game is an immersive, story-driven game built with Unity, featuring a rich interaction system, dynamic NPC behaviors, and a comprehensive quest system. This project showcases advanced Unity scripting techniques, including service locators, custom editors, and player mechanics. 🎮📖✨
 
+<div align="center">
+  <video src="[myvideo.mp4](https://github.com/ahmedafifiabodu/Narrative-Unity-Game/assets/74466733/70c44136-a2f2-4d4b-9b65-ccaae22d76de)" width="400" />
+</div>
+
 ## Features
 
 - Service Locator Pattern
